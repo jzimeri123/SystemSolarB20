@@ -10,9 +10,16 @@ public class SolarSystem {
         sol.size="50meters";
         sol.temp="9000000";
 
+
         Planet1 daniela=new Planet1();
         daniela.color="bright";
         daniela.temp="50000";
+
+        Planet2 christian=new Planet2();
+        christian.temp="10000k";
+        christian.color="red";
+
+
         
     }
 
